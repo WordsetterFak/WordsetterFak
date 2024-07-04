@@ -19,6 +19,8 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
   <img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" />
 </a>
+<a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/465px-Postgresql_elephant.svg.png" alt="sql" width="30px"/> </a>
 
 <!--
 **WordsetterFak/WordsetterFak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
