@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Logo
 
-- 📚 I’m currently pursuing a Mathematics Bachelor Degree at National and Kapodistrian University of Athens
+- 📚 I’m currently pursuing a Mathematics Bachelor's Degree at National and Kapodistrian University of Athens
 - 🔭 I’m currently working on an enterprise ERP application for Restaurant Management
 - 🌱 I’m currently learning Full Stack Web Development
 - 💡 I'm interested in Machine Learning, Artificial Intelligence and Data Science
