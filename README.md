@@ -21,8 +21,10 @@
 </a>
 <a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/465px-Postgresql_elephant.svg.png" alt="sql" width="30px"/> </a>
-<a>
+<a> <!-- Maybe remove this lone <a> tag, for now it seems to improve the look -->
+<a href="https://www.pyomo.org/"><img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pyomo_Logo_Without_Text.png" /> </a>
 <img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> </a>
+
 
 <!--
 **WordsetterFak/WordsetterFak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
