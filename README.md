@@ -7,7 +7,7 @@
 - 📫 How to reach me: fasoladinos@gmail.com
 
 ## Languages and Tools
-
+<div  style="display: flex; align-content: center;">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" /> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" /> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" /> </a> 
@@ -21,10 +21,10 @@
 </a>
 <a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/465px-Postgresql_elephant.svg.png" alt="sql" width="30px"/> </a>
-<a> <!-- Maybe remove this lone <a> tag, for now it seems to improve the look -->
-<a href="https://www.pyomo.org/"><img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pyomo_Logo_Without_Text.png" /> </a>
-<img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> </a>
 
+<a href="https://www.pyomo.org/"><img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/en/f/fd/Pyomo_Logo_Without_Text.png" /> </a>
+<a href="https://www.latex-project.org/"><div style="display: flex; align-content: center;"> <img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://i.sstatic.net/zHFFO.png" /> </div></a>
+</div>
 
 <!--
 **WordsetterFak/WordsetterFak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
