@@ -16,7 +16,7 @@
 
 ## Languages and Tools
 
-<p align="left">
+<div align="center">
   <div style="justify-self: center;">
   <div style="justify-self: center;">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,github,git,figma,express" />
@@ -27,4 +27,4 @@
   <img style="border-radius: 10px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo" width="48" height="48"/>
   </div>
   </div>
-</p>
+<div align="center">
